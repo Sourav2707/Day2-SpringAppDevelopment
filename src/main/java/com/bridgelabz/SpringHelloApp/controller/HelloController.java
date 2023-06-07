@@ -4,7 +4,6 @@ import com.bridgelabz.SpringHelloApp.user.User;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping
 public class HelloController {
     @RequestMapping(value = {"", "/", "/home"})
     public String sayHello() {
