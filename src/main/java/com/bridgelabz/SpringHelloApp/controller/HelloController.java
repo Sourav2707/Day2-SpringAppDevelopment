@@ -1,6 +1,6 @@
 package com.bridgelabz.SpringHelloApp.controller;
 
-import com.bridgelabz.SpringHelloApp.user.User;
+import com.bridgelabz.SpringHelloApp.entity.User;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

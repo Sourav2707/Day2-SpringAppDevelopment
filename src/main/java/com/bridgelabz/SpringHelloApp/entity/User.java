@@ -1,4 +1,4 @@
-package com.bridgelabz.SpringHelloApp.user;
+package com.bridgelabz.SpringHelloApp.entity;
 
 public class User {
     private String firstName;
